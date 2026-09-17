@@ -1,0 +1,5 @@
+ValueError
+IndexError
+NameError
+AssertionError
+TypeError 
